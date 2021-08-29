@@ -1,5 +1,3 @@
-# Repositories
-
 ## Work related
 
 ### [kivitendo-erp](https://github.com/rebootl/kivitendo-erp)
@@ -10,7 +8,11 @@ Kivitendo docker development environment (postgres database in separate containe
 
 ## Reference Projects (private)
 
-## Used by people
+### [pipolog](https://github.com/rebootl/pipolog)
+a simple logging aggregator, server and web-interface (using Svelte)
+
+### [betterreflect-app](https://github.com/rebootl/betterreflect-app)
+personal website, organize and share notes, links, images (using SvelteKit, __WIP__)
 
 ## Tools
 
