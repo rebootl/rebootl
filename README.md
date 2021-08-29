@@ -1,16 +1,15 @@
-### Hi there 👋
+## Work related
 
-<!--
-**rebootl/rebootl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### [kivitendo-erp](https://github.com/rebootl/kivitendo-erp)
+Web-based ERP system for the German market (Forked from [kivitendo/kivitendo-erp](https://github.com/kivitendo/kivitendo-erp))
 
-Here are some ideas to get you started:
+### [kivitendo-docker-devel](https://github.com/rebootl/kivitendo-docker-devel)
+Kivitendo docker development environment (postgres database in separate container)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Reference Projects (private)
+
+## Used by people
+
+## Tools
+
+## Fun stuff
