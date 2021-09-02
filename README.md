@@ -21,11 +21,11 @@ personal website, organize and share notes, links, images etc. (using SvelteKit)
 
 ## Tools
 
-### [simple_yasim_import-git](https://github.com/rebootl/simple_yasim_import-git)
-a Blender plugin to import and visualize YASim data (Aircraft FDM data for the FlightGear Flight Simulator)
-
 ### [speech-typer](https://github.com/rebootl/speech-typer)
 types what you say where your cursor is (using [Uberi/speech_recognition](https://github.com/Uberi/speech_recognition) and [moses-palmer/pynput](https://github.com/moses-palmer/pynput))
+
+### [simple_yasim_import-git](https://github.com/rebootl/simple_yasim_import-git)
+a Blender plugin to import and visualize YASim data (Aircraft FDM data for the FlightGear Flight Simulator)
 
 ### [diskmon](https://github.com/rebootl/diskmon)
 small harddisk web monitor written in perl
