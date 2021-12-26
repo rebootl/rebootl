@@ -9,15 +9,17 @@ Kivitendo docker development environment (postgres database in separate containe
 ### [plg_search_mediawiki](https://github.com/rebootl/plg_search_mediawiki)
 Joomla search plugin for mediawiki database (Joomla 3+)
 
-## Personal reference projects
+## Personal projects
+
+### [reboot.li](https://github.com/rebootl/reboot.li) _WIP_
+personal website, organize and share notes, links, images etc. (using SvelteKit)
+
+deployed at: https://reboot.li
 
 ### [pipolog](https://github.com/rebootl/pipolog)
 a simple logging aggregator, server and web-interface (using Svelte)
 
 clients send data via agent/API (see [pipolog-agent](https://github.com/rebootl/pipolog-agent), a fully asynchronous agent for pipolog)
-
-### [betterreflect-app](https://github.com/rebootl/betterreflect-app) _WIP_
-personal website, organize and share notes, links, images etc. (using SvelteKit)
 
 ## Tools
 
