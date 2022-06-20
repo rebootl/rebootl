@@ -23,8 +23,8 @@ clients send data via agent/API (see [pipolog-agent](https://github.com/rebootl/
 
 ## Tools
 
-### [speech-typer](https://github.com/rebootl/speech-typer)
-Linux speech-to-text tool, types what you say where your cursor is (using [Uberi/speech_recognition](https://github.com/Uberi/speech_recognition) and [moses-palmer/pynput](https://github.com/moses-palmer/pynput))
+### [speech-typer-gui](https://github.com/rebootl/speech-typer-gui)
+Linux speech-to-text tool w/ system tray, types what you say where your cursor is (using [Uberi/speech_recognition](https://github.com/Uberi/speech_recognition) and [moses-palmer/pynput](https://github.com/moses-palmer/pynput))
 
 ### [simple_yasim_import-git](https://github.com/rebootl/simple_yasim_import-git)
 a Blender plugin to import and visualize YASim data (Aircraft FDM data for the FlightGear Flight Simulator)
