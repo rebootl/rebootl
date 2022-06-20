@@ -23,7 +23,7 @@ clients send data via agent/API (see [pipolog-agent](https://github.com/rebootl/
 
 ## Tools
 
-### [speech-typer-gui](https://github.com/rebootl/speech-typer-gui)
+### [linux-speech-typer](https://github.com/rebootl/linux-speech-typer)
 Linux speech-to-text tool w/ system tray, types what you say where your cursor is (using [Uberi/speech_recognition](https://github.com/Uberi/speech_recognition) and [moses-palmer/pynput](https://github.com/moses-palmer/pynput))
 
 ### [simple_yasim_import-git](https://github.com/rebootl/simple_yasim_import-git)
