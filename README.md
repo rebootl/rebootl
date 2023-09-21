@@ -1,4 +1,4 @@
-# Work related
+## Work related
 
 ### [kivitendo/kivitendo-erp](https://github.com/kivitendo/kivitendo-erp)
 Web-based ERP system for the German market
