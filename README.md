@@ -1,7 +1,7 @@
 ## Work related
 
-### [kivitendo-erp](https://github.com/rebootl/kivitendo-erp)
-Web-based ERP system for the German market (Forked from [kivitendo/kivitendo-erp](https://github.com/kivitendo/kivitendo-erp))
+### [kivitendo/kivitendo-erp](https://github.com/kivitendo/kivitendo-erp)
+Web-based ERP system for the German market
 
 ### [kivitendo-docker-devel](https://github.com/rebootl/kivitendo-docker-devel)
 Kivitendo docker development environment (postgres database in separate container)
@@ -12,12 +12,12 @@ Joomla search plugin for mediawiki database (Joomla 3+)
 ## Personal projects
 
 ### [reboot.li](https://github.com/rebootl/reboot.li) _WIP_
-personal website, organize and share notes, links, images etc. (using SvelteKit)
+personal website, organize and share notes, links, images etc.. (made using SvelteKit)
 
 deployed at: https://reboot.li
 
 ### [pipolog](https://github.com/rebootl/pipolog)
-a simple logging aggregator, server and web-interface (using Svelte)
+a simple logging aggregator, server and web-interface (proof-of-concept/prototype, made using Svelte)
 
 clients send data via agent/API (see [pipolog-agent](https://github.com/rebootl/pipolog-agent), a fully asynchronous agent for pipolog)
 
