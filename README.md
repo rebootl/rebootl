@@ -34,10 +34,15 @@ small harddisk web monitor written in perl
 
 ## Fun stuff
 
+### [raytracing-in-one-weekend-webgl](https://github.com/rebootl/raytracing-in-one-weekend-webgl)
+WebGL implementation of: Ray Tracing in One Weekend by Peter Shirley 
+
+[Deployment](https://rebootl.github.io/raytracing-in-one-weekend-webgl/)
+
 ### [kos-kerboscripts](https://github.com/rebootl/kos-kerboscripts)
 KSP (Kerbal Space Program) kOS - mod Scripts
 
 ### [orbit-sim](https://github.com/rebootl/orbit-sim)
 JavaScript Toy Orbit simulator
 
-Deployment: https://rebootl.github.io/orbit-sim/
+[Deployment](https://rebootl.github.io/orbit-sim/)
