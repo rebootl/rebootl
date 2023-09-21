@@ -19,7 +19,7 @@ deployed at: https://reboot.li
 ### [pipolog](https://github.com/rebootl/pipolog)
 a simple logging aggregator, server and web-interface (proof-of-concept/prototype, made using Svelte)
 
-clients send data via agent/API (see [pipolog-agent](https://github.com/rebootl/pipolog-agent), a fully asynchronous agent for pipolog)
+clients send data via agent/API (see [pipolog/agent/](https://github.com/rebootl/pipolog/tree/master/agent), a fully asynchronous agent for pipolog)
 
 ## Tools
 
