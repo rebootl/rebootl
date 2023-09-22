@@ -11,10 +11,13 @@ Joomla search plugin for mediawiki database (Joomla 3+)
 
 ## Personal projects
 
-### [reboot.li](https://github.com/rebootl/reboot.li) _WIP_
+### [reboot.li](https://github.com/rebootl/reboot.li)
 personal website, organize and share notes, links, images etc.. (made using SvelteKit)
 
 deployed at: https://reboot.li
+
+### [time-tracking-app](https://github.com/rebootl/time-tracking-app)
+a simple time tracking app for my personally use (made using SvelteKit)
 
 ### [pipolog](https://github.com/rebootl/pipolog)
 a simple logging aggregator, server and web-interface (proof-of-concept/prototype, made using Svelte)
