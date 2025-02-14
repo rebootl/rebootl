@@ -12,7 +12,7 @@ Joomla search plugin for mediawiki database (Joomla 3+)
 ## Personal projects
 
 ### [reboot.li](https://github.com/rebootl/reboot.li)
-personal website, organize and share notes, links, images etc.. (made using SvelteKit)
+personal website, organize and share notes, links, images etc.. (made with go and sqlite)
 
 deployed at: https://reboot.li
 
