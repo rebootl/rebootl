@@ -1,51 +1,36 @@
+__IMPORTANT NOTICE__: Currently I'm in the process of migrating to [codeberg](https://codeberg.org/) in order to reduce reliance on US big tech. Up-to-date projects will be hosted there. Go check out: [codeberg.org/rebootl](https://codeberg.org/rebootl)
+
 ## Work related
 
-### [kivitendo/kivitendo-erp](https://github.com/kivitendo/kivitendo-erp)
+__[kivitendo/kivitendo-erp](https://github.com/kivitendo/kivitendo-erp)__\
 Web-based ERP system for the German market
 
-### [kivitendo-docker-devel](https://github.com/rebootl/kivitendo-docker-devel)
-Kivitendo docker development environment (postgres database in separate container)
-
-### [plg_search_mediawiki](https://github.com/rebootl/plg_search_mediawiki)
-Joomla search plugin for mediawiki database (Joomla 3+)
+__[Kivitendo Docker](https://codeberg.org/rebootl/kivitendo-docker) (codeberg)__\
+Dockerfile for Kivitendo ERP
 
 ## Personal projects
 
-### [reboot.li](https://github.com/rebootl/reboot.li)
-personal website, organize and share notes, links, images etc.. (made with go and sqlite)
+__[reboot.li](https://codeberg.org/rebootl/reboot.li) (codeberg)__\
+My personal website. Built using Deno, TypeScript, Oak, SQLite, Tailwind and HTMX.
 
-deployed at: https://reboot.li
-
-### [time-tracking-app](https://github.com/rebootl/time-tracking-app)
-a simple time tracking app for my personal use (made using SvelteKit)
-
-### [pipolog](https://github.com/rebootl/pipolog)
-a simple logging aggregator, server and web-interface (proof-of-concept/prototype, made using Svelte)
-
-clients send data via agent/API (see [pipolog/agent/](https://github.com/rebootl/pipolog/tree/master/agent), a fully asynchronous agent for pipolog)
+Deployed at: https://reboot.li
 
 ## Tools
 
-### [linux-speech-typer](https://github.com/rebootl/linux-speech-typer)
-Linux speech-to-text tool w/ system tray, types what you say where your cursor is (using [Uberi/speech_recognition](https://github.com/Uberi/speech_recognition) and [moses-palmer/pynput](https://github.com/moses-palmer/pynput))
-
-### [simple_yasim_import-git](https://github.com/rebootl/simple_yasim_import-git)
-a Blender plugin to import and visualize YASim data (Aircraft FDM data for the FlightGear Flight Simulator)
-
-### [diskmon](https://github.com/rebootl/diskmon)
-small harddisk web monitor written in perl
+__[rebootl/backup-scripts](https://github.com/rebootl/backup-scripts)__\
+personal backup scripts 
 
 ## Fun stuff
 
-### [raytracing-in-one-weekend-webgl](https://github.com/rebootl/raytracing-in-one-weekend-webgl)
+__[raytracing-in-one-weekend-webgl](https://github.com/rebootl/raytracing-in-one-weekend-webgl)__\
 WebGL implementation of: Ray Tracing in One Weekend by Peter Shirley 
 
 [View deployment](https://rebootl.github.io/raytracing-in-one-weekend-webgl/)
 
-### [kos-kerboscripts](https://github.com/rebootl/kos-kerboscripts)
+__[kos-kerboscripts](https://github.com/rebootl/kos-kerboscripts)__\
 KSP (Kerbal Space Program) kOS - mod Scripts
 
-### [orbit-sim](https://github.com/rebootl/orbit-sim)
+__[orbit-sim](https://github.com/rebootl/orbit-sim)__
 JavaScript Toy Orbit simulator
 
 [View deployment](https://rebootl.github.io/orbit-sim/)
