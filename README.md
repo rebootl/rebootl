@@ -12,7 +12,7 @@ Dockerfile for Kivitendo ERP
 
 __[reboot.li](https://codeberg.org/rebootl/reboot.li) (codeberg)__\
 My personal website. Built using Deno, TypeScript, Oak, SQLite, Tailwind and HTMX.\
-Deployed at: https://reboot.li
+[Visit website](https://reboot.li)
 
 ## Tools
 
