@@ -28,6 +28,6 @@ WebGL implementation of: Ray Tracing in One Weekend by Peter Shirley\
 __[kos-kerboscripts](https://github.com/rebootl/kos-kerboscripts)__\
 KSP (Kerbal Space Program) kOS - mod Scripts
 
-__[orbit-sim](https://github.com/rebootl/orbit-sim)__
+__[orbit-sim](https://github.com/rebootl/orbit-sim)__\
 JavaScript Toy Orbit simulator\
 [View deployment](https://rebootl.github.io/orbit-sim/)
