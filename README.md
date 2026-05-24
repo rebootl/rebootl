@@ -11,8 +11,7 @@ Dockerfile for Kivitendo ERP
 ## Personal projects
 
 __[reboot.li](https://codeberg.org/rebootl/reboot.li) (codeberg)__\
-My personal website. Built using Deno, TypeScript, Oak, SQLite, Tailwind and HTMX.
-
+My personal website. Built using Deno, TypeScript, Oak, SQLite, Tailwind and HTMX.\
 Deployed at: https://reboot.li
 
 ## Tools
@@ -23,14 +22,12 @@ personal backup scripts
 ## Fun stuff
 
 __[raytracing-in-one-weekend-webgl](https://github.com/rebootl/raytracing-in-one-weekend-webgl)__\
-WebGL implementation of: Ray Tracing in One Weekend by Peter Shirley 
-
+WebGL implementation of: Ray Tracing in One Weekend by Peter Shirley\
 [View deployment](https://rebootl.github.io/raytracing-in-one-weekend-webgl/)
 
 __[kos-kerboscripts](https://github.com/rebootl/kos-kerboscripts)__\
 KSP (Kerbal Space Program) kOS - mod Scripts
 
 __[orbit-sim](https://github.com/rebootl/orbit-sim)__
-JavaScript Toy Orbit simulator
-
+JavaScript Toy Orbit simulator\
 [View deployment](https://rebootl.github.io/orbit-sim/)
