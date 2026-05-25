@@ -8,6 +8,10 @@ Web-based ERP system for the German market
 __[Kivitendo Docker](https://codeberg.org/rebootl/kivitendo-docker) (codeberg)__\
 Dockerfile for Kivitendo ERP
 
+__[Rework of the revamp-it.ch website](https://github.com/rebootl/revampit-rework)__\
+_proof-of-concept / demo mid 2025_\
+[View deployment](https://revampit-rework.reboot.li/)
+
 ## Personal projects
 
 __[reboot.li](https://codeberg.org/rebootl/reboot.li) (codeberg)__\
