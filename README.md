@@ -12,6 +12,12 @@ __[Rework of the revamp-it.ch website](https://github.com/rebootl/revampit-rewor
 _proof-of-concept / demo mid 2025_\
 [View deployment](https://revampit-rework.reboot.li/)
 
+__[rebootl/revamp-backend-api](https://github.com/rebootl/revamp-backend-api)__\
+A simple backend API server using node express. _demo mid 2025_
+
+__[rebootl/docker-devenv-shopware](https://github.com/rebootl/docker-devenv-shopware)__\
+local development environment for shopware
+
 ## Personal projects
 
 __[reboot.li](https://codeberg.org/rebootl/reboot.li) (codeberg)__\
