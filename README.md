@@ -1,4 +1,6 @@
-__IMPORTANT NOTICE__: Currently I'm in the process of migrating to [codeberg](https://codeberg.org/) in order to reduce reliance on US big tech. Up-to-date projects will be hosted there. Go check out: [codeberg.org/rebootl](https://codeberg.org/rebootl)
+__IMPORTANT NOTICE: I'm currently in the process of migrating my personal code repositories to a self-hosted code forge. [Go check it out!](https://code.reboot.li/rebootl)__
+
+The reason for migrating is mainly in order to reduce reliance on US big tech but also because the github user experience has become pretty bad (pages loading slowly leading to frequent refreshing and a confusing experience).
 
 ## Work related
 
@@ -20,7 +22,7 @@ local development environment for shopware
 
 ## Personal projects
 
-__[reboot.li](https://codeberg.org/rebootl/reboot.li) (codeberg)__\
+__[reboot.li](https://code.reboot.li/rebootl/reboot.li) (self-hosted)__\
 My personal website. Built using Deno, TypeScript, Oak, SQLite, Tailwind and HTMX.\
 [Visit website](https://reboot.li)
 
