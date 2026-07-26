@@ -10,6 +10,9 @@ A Web-based ERP system for the German market
 __[Kivitendo Docker](https://github.com/rebootl/kivitendo-docker)__\
 Dockerfile for Kivitendo ERP
 
+__[Taler-Kivitendo integration - Design documents](https://codeberg.org/revamp-it/kivi-taler-integration-design-docs)__  (codeberg)\
+Design documents for the Taler Kivitendo integration
+
 __[Rework of the revamp-it.ch website](https://github.com/rebootl/revampit-rework)__\
 _proof-of-concept / demo mid 2025_\
 [View deployment](https://revampit-rework.reboot.li/)
