@@ -1,15 +1,13 @@
-__IMPORTANT NOTICE: I'm currently in the process of migrating my personal code repositories to a self-hosted code forge. [Go check it out!](https://code.reboot.li/rebootl)__
+__IMPORTANT NOTICE: Active personal repositories are hosted on my self-hosted code forge. [Go check it out!](https://code.reboot.li/rebootl)__
 
-Active personal repositories will be hosted there.
-
-The reason for migrating is mainly in order to reduce reliance on US big tech but also because the github user experience has become pretty bad (pages loading slowly leading to frequent refreshing and a confusing experience).
+The reason for self-hosting is mainly in order to reduce reliance on US big tech but also because the github user experience has become kinda bad (pages loading slowly leading to frequent refreshing and a confusing experience).
 
 ## Work related
 
 __[kivitendo/kivitendo-erp](https://github.com/kivitendo/kivitendo-erp)__\
-Web-based ERP system for the German market
+A Web-based ERP system for the German market
 
-__[Kivitendo Docker](https://codeberg.org/rebootl/kivitendo-docker) (codeberg)__\
+__[Kivitendo Docker](https://github.com/rebootl/kivitendo-docker)__\
 Dockerfile for Kivitendo ERP
 
 __[Rework of the revamp-it.ch website](https://github.com/rebootl/revampit-rework)__\
