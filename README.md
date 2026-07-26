@@ -1,6 +1,6 @@
 __IMPORTANT NOTICE: I'm currently in the process of migrating my personal code repositories to a self-hosted code forge. [Go check it out!](https://code.reboot.li/rebootl)__
 
-Active repositories will be hosted there.
+Active personal repositories will be hosted there.
 
 The reason for migrating is mainly in order to reduce reliance on US big tech but also because the github user experience has become pretty bad (pages loading slowly leading to frequent refreshing and a confusing experience).
 
