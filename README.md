@@ -1,4 +1,4 @@
-__IMPORTANT NOTICE: As of 2026 my active personal projects are hosted on [my self-hosted code forge](https://code.reboot.li/rebootl). Go check it out!__
+__IMPORTANT NOTICE: My active personal projects are hosted on [my self-hosted code forge](https://code.reboot.li/rebootl). Go check it out!__
 
 The reason for self-hosting is mainly in order to reduce reliance on US big tech but also because the github user experience has become kinda bad (pages loading slowly leading to frequent refreshing and a confusing experience).
 
